@@ -20,7 +20,7 @@
 </head>
 <body>
 <div class="header">
-  <h1>Hello JJ Tech Family !!!</h1>
+  <h1>Hello JJ Tech Family, my name is YUYUN ELVIS KWATINYUY. I am grateful to be here !!!</h1>
   <p>Sample Java Application</p>
 </div>
 </body>
